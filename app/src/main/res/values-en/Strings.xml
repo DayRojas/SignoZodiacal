@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zodiac sign</string>
+    <string name="button_camara" >Camara</string>
+    <string name="button_select_date">Select your date of birth</string>
+    <string name="text_age">Your age is:</string>
+    <string name="text_birthdate">Birthdate</string>
+    <string name="text_calculate">Calculate Age and Zodiac Sign</string>
+    <string name="text_current_date">Current date:</string>
+    <string name="text_hello">Hello</string>
+    <string name="text_name">Enter your name</string>
+    <string name="text_zodiac_message">The phrase for your sign:</string>
+    <string name="text_zodiac_sign">Your zodiac sign will appear here:</string>
+
+</resources>

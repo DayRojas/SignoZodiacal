@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signo do zodíaco</string>
+    <string name="button_camara" >Camara</string>
+    <string name="button_select_date">Selecione a sua data de nascimento</string>
+    <string name="text_age">Sua idade é:</string>
+    <string name="text_birthdate">Data de nascimento</string>
+    <string name="text_calculate">Calcular idade e signo do zodíaco</string>
+    <string name="text_current_date">Data atual:</string>
+    <string name="text_hello">Olá</string>
+    <string name="text_name">Digite seu nome</string>
+    <string name="text_zodiac_message">A frase para o seu signo:</string>
+    <string name="text_zodiac_sign">Seu signo do zodíaco aparecerá aqui:</string>
+
+</resources>
